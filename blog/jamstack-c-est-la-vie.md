@@ -8,7 +8,7 @@ image: "/uploads/jamstack.png"
 ---
 > JAMStack c'est la vie
 
-# Lorem Ipsum 
+# Lorem Ipsum
 
 [https://snipcart.com/blog/jamstack](https://snipcart.com/blog/jamstack "c'est quoi la JAMStack?")
 
@@ -17,14 +17,14 @@ image: "/uploads/jamstack.png"
 3. Le **Lorem Ipsum**
 4. Le **Lorem Ipsum**
 
-    <script type="text/javascript">
+   <script type="text/javascript">
 
-    if ( tarteaucitron !== undefined ) {
+   if ( tarteaucitron !== undefined ) {
 
-    tarteaucitron.user.googletagmanagerId = '';
+   tarteaucitron.user.googletagmanagerId = '';
 
-     (tarteaucitron.job = tarteaucitron.job || []).push('googletagmanager');
+   (tarteaucitron.job = tarteaucitron.job || \[\]).push('googletagmanager');
 
-     }
+   }
 
-    </script>
+   </script> 
