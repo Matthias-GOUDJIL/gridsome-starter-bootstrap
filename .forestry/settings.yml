@@ -1,6 +1,6 @@
 ---
 new_page_extension: md
-auto_deploy: false
+auto_deploy: true
 admin_path: "/static/admin"
 webhook_url: 
 sections:
@@ -17,7 +17,7 @@ file_template: ":filename:"
 instant_preview: true
 build:
   preview_command: vuepress build -d .vuepress/dist
-  publish_command: vuepress build -d .vuepress/dist
+  publish_command: gridsome build
   preview_output_directory: ".vuepress/dist"
-  output_directory: ".vuepress/dist"
+  output_directory: dist
   instant_preview_command: vuepress dev -p 8080 -h 0.0.0.0
