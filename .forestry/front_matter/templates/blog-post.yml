@@ -18,4 +18,5 @@ fields:
   name: image
   label: image
 pages:
+- blog/encore-un-test.md
 - blog/jamstack-c-est-la-vie.md
